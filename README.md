@@ -1,0 +1,2 @@
+# donform
+A simple website with Razorpay as the payment gateway integration. You can pay any amount and after successful completion of payment you will get an email receipt of the same on the given email id. This was done under the internship at The Sparks Foundation as Task 3: Payment Gateway Integration. Razorpay Test card: 4111 1111 1111 1111 Use any expiry date in the future and any random CVV. Used: HTML, CSS, JavaScript
